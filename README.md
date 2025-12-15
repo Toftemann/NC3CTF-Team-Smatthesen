@@ -10,7 +10,7 @@ Our team ended up completing 34 of the 50 tasks.
 ✅ Snissnap<br />
 ✅ Den Bærende Opskrift<br />
 ✅ RensdyrRygter<br />
-✅ RenDJyr Remix<br />
+✅ [RenDJyr Remix](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/RensDJyr%20Remix%20-%20Solved.md)<br />
 ✅ Gremlinshop: Autoriseret Adgang<br />
 ✅ Gremlinshop: Men hvilken aktør?<br />
 ✅ Gremlinshop: Begravet i mængden<br />
