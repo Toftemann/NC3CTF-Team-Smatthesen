@@ -16,7 +16,7 @@ Our team ended up completing 34 of the 50 tasks.
 ✅ Gremlinshop: Begravet i mængden<br />
 ✅ Radio Nisselyd<br />
 ✅ Radio Nisselyd: The Noise<br />
-✅ Ace0fBase<br />
+✅ [Ace0fBase](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Ace0fBase%20-%20Solved.md)<br />
 
 ## ![](https://geps.dev/progress/83) Crypto
 ✅ Ønskomaten v12.24<br />
