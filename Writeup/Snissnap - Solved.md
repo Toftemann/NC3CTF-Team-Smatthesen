@@ -37,4 +37,4 @@ N C 3 { ju l _ m e d _ k y r i l l i s k }
 
 Dog er det første "C" et "S" i det kyrilliske alfabet, men der tænkte jeg at det nok ikke skulle oversættes.
 
-Flag: NC3{jul_med_kyrillisk}
+Flag: ```NC3{jul_med_kyrillisk}```
