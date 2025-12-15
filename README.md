@@ -4,7 +4,7 @@ NC3 CTF 2025, tasks completed by Team Smatthesen on https://nc3ctf.dk/
 This is the first year that I have personally attended a CTF competition, and these are the task that we have solved.<br />
 Our team ended up completing 34 of the 50 tasks.
 
-## Kom godt i gang ![](https://geps.dev/progress/100)
+## ![](https://geps.dev/progress/100) Kom godt i gang
 ✅ Start her!<br />
 ✅ Discord<br />
 ✅ Snissnap<br />
@@ -18,7 +18,7 @@ Our team ended up completing 34 of the 50 tasks.
 ✅ Radio Nisselyd: The Noise<br />
 ✅ Ace0fBase<br />
 
-## Crypto ![](https://geps.dev/progress/83)
+## ![](https://geps.dev/progress/83) Crypto
 ✅ Ønskomaten v12.24<br />
 ✅ Gremlin IoT-Encryption Standard (GIoTES)<br />
 ✅ Ønskomania 6000<br />
@@ -26,18 +26,18 @@ Our team ended up completing 34 of the 50 tasks.
 ❌ Ønskomaten v24.12<br />
 ✅ Ønskomafia<br />
 
-## OSINT ![](https://geps.dev/progress/100)
+## ![](https://geps.dev/progress/100) OSINT
 ✅ Nyfalden sne kaos<br />
 ✅ Den Knaldrøde Julehat<br />
 ✅ Kildenisse på Julemarked<br />
 
-## Reversing ![](https://geps.dev/progress/75)
+## ![](https://geps.dev/progress/75) Reversing
 ✅ Fritz i Juleskoven<br />
 ✅ Julekortet<br />
 ✅ Nissehalla<br />
 ❌ Porten til Julevibes<br />
 
-## Forensics ![](https://geps.dev/progress/87)
+## ![](https://geps.dev/progress/87) Forensics
 ✅ Makulatoren<br />
 ✅ Juleånd og Gavebånd<br />
 ✅ Nissrensics: Vandrestien (start her)<br />
@@ -47,17 +47,17 @@ Our team ended up completing 34 of the 50 tasks.
 ✅ Nissrensics: Forkromet Mellemgasfordeler<br />
 ❌ Nissrensics: Lykke(h)julet<br />
 
-## Boot2Root ![](https://geps.dev/progress/66)
+## ![](https://geps.dev/progress/66) Boot2Root
 ✅ SantaShield Security #1<br />
 ✅ SantaShield Security #2<br />
 ❌ SantaShield Security #3<br />
 
-## Web ![](https://geps.dev/progress/66)
+## ![](https://geps.dev/progress/66) Web
 ✅ Julemandens Gåde<br />
 ✅ Christmas Wonderland<br />
 ❌ Cozy Christmas Socks<br />
 
-## Malware ![](https://geps.dev/progress/0)
+## ![](https://geps.dev/progress/0) Malware
 ❌ Humlebiens Flugt 🐝<br />
 ❌ Humlebiens Flugt 🐝🐝<br />
 ❌ Humlebiens Flugt 🐝🐝🐝<br />
@@ -69,5 +69,5 @@ Our team ended up completing 34 of the 50 tasks.
 ❌ Minos 6: Server<br />
 ❌ Minos 7: Takedown<br />
 
-## Pwn ![](https://geps.dev/progress/0)
+## ![](https://geps.dev/progress/0) Pwn
 ❌ Fritz i Vinterlunden<br />
