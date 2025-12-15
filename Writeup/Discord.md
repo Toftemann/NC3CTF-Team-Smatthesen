@@ -14,7 +14,8 @@ Kom og vær med - måske nisserne har gemt et flag!
 https://nc3ctf.dk/discordauth
 ```
 
-Opgaven går ud på at man skal tilgå deres Discord server, og finde flaget. Her skal man kigge lidt rundt omkring, og hvis man kigger i header på # 🗨️-general, står flaget der.
+Opgaven går ud på at man skal tilgå deres Discord server, og finde flaget. Her skal man bare kigge lidt rundt omkring. <br />
+Flaget kan man finde i tekstkanalen # 🗨️-general
 
 Flag: ```NC3{n1ss3sn4k_0g_jul3ch4t}```
 
