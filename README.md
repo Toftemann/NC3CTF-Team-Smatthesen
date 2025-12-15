@@ -14,7 +14,7 @@ Our team ended up completing 34 of the 50 tasks.
 ✅ Gremlinshop: Autoriseret Adgang<br />
 ✅ Gremlinshop: Men hvilken aktør?<br />
 ✅ Gremlinshop: Begravet i mængden<br />
-✅ Radio Nisselyd<br />
+✅ [Radio Nisselyd](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Radio%20Nisselyd%20-%20Solved.md)<br />
 ✅ Radio Nisselyd: The Noise<br />
 ✅ [Ace0fBase](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Ace0fBase%20-%20Solved.md)<br />
 
