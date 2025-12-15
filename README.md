@@ -5,8 +5,8 @@ This is the first year that I have personally attended a CTF competition, and th
 Our team ended up completing 34 of the 50 tasks.
 
 ## ![](https://geps.dev/progress/100) Kom godt i gang
-✅ Start her!<br />
-✅ Discord<br />
+✅ [Start her!](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Start%20her!%20-%20Solved.md)<br />
+✅ [Discord](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Discord.md)<br />
 ✅ Snissnap<br />
 ✅ Den Bærende Opskrift<br />
 ✅ RensdyrRygter<br />
