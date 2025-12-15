@@ -8,7 +8,7 @@ Our team ended up completing 34 of the 50 tasks.
 ✅ [Start her!](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Start%20her!%20-%20Solved.md)<br />
 ✅ [Discord](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Discord.md)<br />
 ✅ Snissnap<br />
-✅ Den Bærende Opskrift<br />
+✅ [Den Bærende Opskrift](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Radio%20Nisselyd%20-%20Solved.md)<br />
 ✅ RensdyrRygter<br />
 ✅ [RenDJyr Remix](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/RensDJyr%20Remix%20-%20Solved.md)<br />
 ✅ Gremlinshop: Autoriseret Adgang<br />
