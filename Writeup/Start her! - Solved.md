@@ -31,5 +31,3 @@ Held og lykke! ☃️
 ```
 
 Flag: ```NC3{nu_d3t_jul_1g3n!}```
-
-<img width="488" height="917" alt="image" src="https://github.com/user-attachments/assets/5b9750ec-24f9-4eca-8c4d-fe1ed2ff35fd" />
