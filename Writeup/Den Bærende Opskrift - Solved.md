@@ -40,4 +40,4 @@ NC3{Surrib_er_bedst_på_sønderjydsk}
 
 Flag: `NC3{Surrib_er_bedst_på_sønderjydsk}`
 
-<img width="2317" height="1133" alt="image" src="https://github.com/user-attachments/assets/c3986ebd-436f-4380-bfd3-de3361b0ac43" />
+<img width="2317" height="999" alt="Skærmbillede 2025-12-15 122349" src="https://github.com/user-attachments/assets/67049789-42c7-4a78-b62e-4571a441943a" />
