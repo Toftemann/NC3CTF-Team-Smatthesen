@@ -31,6 +31,7 @@ for sjov at ændre output texten fra *Raw Bytes* til at være UTF-8 og UTF-7. St
 
 Det jeg var mest interesseret i var teksten ```НC3{юл_мэд_кыриллиск}```, da det kunne ligne formatet af det flag man skal finde.
 Hvis man googler "kyrillisk til dansk", kan man finde et alfabet på [Sprognet.dk - Transskription af russisk](https://sproget.dk/sprogviden/ordlister/transskription-af-russisk/), og tager et tegn af gangen kommer man frem til dette resultat:
+
 Н C 3 { ю  л _ м э д _ к ы р и л л и с к } <br />
 N C 3 { ju l _ m e d _ k y r i l l i s k }
 
