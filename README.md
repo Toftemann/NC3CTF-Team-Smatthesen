@@ -1,10 +1,11 @@
 # NC3CTF-Team-Smatthesen
-NC3 CTF 2025, tasks completed by Team Smatthesen on https://nc3ctf.dk/
+### NC3 CTF Christmas competition 2025
+- Tasks completed by Team Smatthesen on https://nc3ctf.dk/
 
 This is the first year that I have personally attended a CTF competition, and these are the task that we have solved.<br />
 Our team ended up completing 34 of the 50 tasks.
 
-✒️ Writeups are in Danish
+### ✒️ Writeups are in Danish
 
 ## ![](https://geps.dev/progress/100) Kom godt i gang
 ✅ [Start her!](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Start%20her!%20-%20Solved.md)<br />
@@ -72,4 +73,7 @@ Our team ended up completing 34 of the 50 tasks.
 ❌ Minos 7: Takedown<br />
 
 ## ![](https://geps.dev/progress/0) Pwn
-❌ Fritz i Vinterlunden<br />
+❌ Fritz i Vinterlunden <br /> <br /> <br />
+
+## Disclaimer
+💼 Writeups are done by memory, and may not be 100% complete/correct.
