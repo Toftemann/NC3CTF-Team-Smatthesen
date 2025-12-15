@@ -9,7 +9,7 @@ Our team ended up completing 34 of the 50 tasks.
 
 ## ![](https://geps.dev/progress/100) Kom godt i gang
 ✅ [Start her!](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Start%20her!%20-%20Solved.md)<br />
-✅ [Discord](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Discord.md%20-%20Solved.md)<br />
+✅ [Discord](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Discord%20-%20Solved.md)<br />
 ✅ [Snissnap](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Snissnap%20-%20Solved.md)<br />
 ✅ [Den bærende opskrift](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Den%20B%C3%A6rende%20Opskrift%20-%20Solved.md)<br />
 ✅ RensdyrRygter<br />
