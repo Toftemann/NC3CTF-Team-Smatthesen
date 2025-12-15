@@ -1,8 +1,8 @@
 # NC3CTF-Team-Smatthesen
 NC3 CTF, tasks completed by Team Smatthesen on https://nc3ctf.dk/
 
-This is the first year that I have personally attended a CTF competition, and these are the task that I have solved myself.
-My team ended up completing 34 of the 50 tasks.
+This is the first year that I have personally attended a CTF competition, and these are the task that we have solved.
+Our team ended up completing 34 of the 50 tasks.
 
 ## Kom godt i gang 
 (100% - 12/12)
