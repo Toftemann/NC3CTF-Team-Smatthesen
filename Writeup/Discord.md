@@ -16,6 +16,6 @@ https://nc3ctf.dk/discordauth
 
 Opgaven går ud på at man skal tilgå deres Discord server, og finde flaget. Her skal man kigge lidt rundt omkring, og hvis man kigger i header på # 🗨️-general, står flaget der.
 
-Flag: NC3{n1ss3sn4k_0g_jul3ch4t}
+Flag: ```NC3{n1ss3sn4k_0g_jul3ch4t}```
 
 <img width="700" height="88" alt="image" src="https://github.com/user-attachments/assets/18f3077f-1a97-43ae-b75e-0347e68fb5c7" />
