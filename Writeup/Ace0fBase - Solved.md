@@ -5,8 +5,10 @@ kryptering er unødvendigt, så længe man encoder godt
 nok - og så behøver man ikke engang besværet med
 nøgler: win-win.
 ```
+Opgave: [warmup_ace0fbase.zip](https://github.com/user-attachments/files/24165717/warmup_ace0fbase.zip)
 
-I opgaven får man en kæmpe streng kode, og et hint: ```så længe man encoder godt nok```. Her tænkte jeg med det samme at det måtte være encoded mange gange med en Base encoder. <br />
+I opgaven får man en kæmpe streng kode, og et hint i både titlen og i beskrivelsen: ```så længe man encoder godt nok```. <br />
+Her tænkte jeg med det samme at det måtte være Base encoded, og være gjort mange gange. <br />
 
 Hvis man smider teksten ind i [Cyberchef](https://gchq.github.io/CyberChef/), og sætter modulet **From Base64** ind, ser det ud som om at der ikke er sker noget med koden.
 Men hov! I opgaven står der jo ```så længe man encoder godt nok``` så jeg her mistænker at teksten bare er encoded mange gange med den samme encoding. (Base64)
