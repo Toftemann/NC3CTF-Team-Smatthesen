@@ -9,7 +9,7 @@ All writeups are written in Danish. I only made a few of them, that I remembered
 ## ![](https://geps.dev/progress/100) Kom godt i gang
 ✅ [Start her!](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Start%20her!%20-%20Solved.md)<br />
 ✅ [Discord](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Discord.md)<br />
-✅ Snissnap<br />
+✅ [Snissnap](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Snissnap%20-%20Solved.md)<br />
 ✅ [Den bærende opskrift](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Den%20B%C3%A6rende%20Opskrift%20-%20Solved.md)<br />
 ✅ RensdyrRygter<br />
 ✅ [RenDJyr Remix](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/RensDJyr%20Remix%20-%20Solved.md)<br />
