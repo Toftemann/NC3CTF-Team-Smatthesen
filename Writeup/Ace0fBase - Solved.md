@@ -18,7 +18,9 @@ Men hov! I opgaven står der jo ```så længe man encoder godt nok``` så jeg he
 Hvis man decoder teksten 21 gange i alt får man en underlig streng af kinesiske tegn og et enkelt egyptisk hieroglyf: <br />
 ```硎𠄳腡扬𓁵洭橀戳扒核敬籮氭戰杕𠌡```
 
-Hvis man dog kender til Base65536 encoding, kan man smide det ind i en online Base65536 decoder (her kan Cyberchef være med) og få flaget: ```NC3{aLl-ur-8@53-R-83l0nG-70-U2!}```
+Hvis man dog kender til Base65536 encoding, kan man smide det ind i en online Base65536 decoder (her kan Cyberchef være med)
+
+Flag: ```NC3{aLl-ur-8@53-R-83l0nG-70-U2!}```
 
 <img width="801" height="629" alt="image" src="https://github.com/user-attachments/assets/bc612340-92d1-4221-855f-e13faa406b33" />
 
