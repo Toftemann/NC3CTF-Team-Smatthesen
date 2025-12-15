@@ -1,133 +1,73 @@
 # NC3CTF-Team-Smatthesen
-NC3 CTF, tasks completed by Team Smatthesen on https://nc3ctf.dk/
+NC3 CTF 2025, tasks completed by Team Smatthesen on https://nc3ctf.dk/
 
-This is the first year that I have personally attended a CTF competition, and these are the task that we have solved.
+This is the first year that I have personally attended a CTF competition, and these are the task that we have solved.<br />
 Our team ended up completing 34 of the 50 tasks.
 
-## Kom godt i gang 
-(100% - 12/12)
+## Kom godt i gang ![](https://geps.dev/progress/100)
+✅ Start her!<br />
+✅ Discord<br />
+✅ Snissnap<br />
+✅ Den Bærende Opskrift<br />
+✅ RensdyrRygter<br />
+✅ RenDJyr Remix<br />
+✅ Gremlinshop: Autoriseret Adgang<br />
+✅ Gremlinshop: Men hvilken aktør?<br />
+✅ Gremlinshop: Begravet i mængden<br />
+✅ Radio Nisselyd<br />
+✅ Radio Nisselyd: The Noise<br />
+✅ Ace0fBase<br />
 
-✅ Start her!
+## Crypto ![](https://geps.dev/progress/83)
+✅ Ønskomaten v12.24<br />
+✅ Gremlin IoT-Encryption Standard (GIoTES)<br />
+✅ Ønskomania 6000<br />
+✅ Ønskomania 7000<br />
+❌ Ønskomaten v24.12<br />
+✅ Ønskomafia<br />
 
-✅ Discord
+## OSINT ![](https://geps.dev/progress/100)
+✅ Nyfalden sne kaos<br />
+✅ Den Knaldrøde Julehat<br />
+✅ Kildenisse på Julemarked<br />
 
-✅ Snissnap
+## Reversing ![](https://geps.dev/progress/75)
+✅ Fritz i Juleskoven<br />
+✅ Julekortet<br />
+✅ Nissehalla<br />
+❌ Porten til Julevibes<br />
 
-✅ Den Bærende Opskrift
+## Forensics ![](https://geps.dev/progress/87)
+✅ Makulatoren<br />
+✅ Juleånd og Gavebånd<br />
+✅ Nissrensics: Vandrestien (start her)<br />
+✅ Drillenissen<br />
+✅ Nissrensics: Ræv og Nøgler<br />
+✅ Nissrensics: Mørkets Dal<br />
+✅ Nissrensics: Forkromet Mellemgasfordeler<br />
+❌ Nissrensics: Lykke(h)julet<br />
 
-✅ RensdyrRygter
+## Boot2Root ![](https://geps.dev/progress/66)
+✅ SantaShield Security #1<br />
+✅ SantaShield Security #2<br />
+❌ SantaShield Security #3<br />
 
-✅ RenDJyr Remix
+## Web ![](https://geps.dev/progress/66)
+✅ Julemandens Gåde<br />
+✅ Christmas Wonderland<br />
+❌ Cozy Christmas Socks<br />
 
-✅ Gremlinshop: Autoriseret Adgang
+## Malware ![](https://geps.dev/progress/0)
+❌ Humlebiens Flugt 🐝<br />
+❌ Humlebiens Flugt 🐝🐝<br />
+❌ Humlebiens Flugt 🐝🐝🐝<br />
+❌ Minos 1: Initial Access<br />
+❌ Minos 2: Stager<br />
+❌ Minos 3: Loader<br />
+❌ Minos 4: Infostealer<br />
+❌ Minos 5: Panel<br />
+❌ Minos 6: Server<br />
+❌ Minos 7: Takedown<br />
 
-✅ Gremlinshop: Men hvilken aktør?
-
-✅ Gremlinshop: Begravet i mængden
-
-✅ Radio Nisselyd
-
-✅ Radio Nisselyd: The Noise
-
-✅ Ace0fBase
-
-
-## Crypto
-(83,3% - 5/6)
-
-✅ Ønskomaten v12.24
-
-✅ Gremlin IoT-Encryption Standard (GIoTES)
-
-✅ Ønskomania 6000
-
-✅ Ønskomania 7000
-
-❌ Ønskomaten v24.12
-
-✅ Ønskomafia
-
-## OSINT
-(100% - 3/3)
-
-✅ Nyfalden sne kaos
-
-✅ Den Knaldrøde Julehat
-
-✅ Kildenisse på Julemarked
-
-## Reversing
-(75% - 3/4)
-
-✅ Fritz i Juleskoven
-
-✅ Julekortet
-
-✅ Nissehalla
-
-❌ Porten til Julevibes
-
-## Forensics
-(87,5% - 7/8)
-
-✅ Makulatoren
-
-✅ Juleånd og Gavebånd
-
-✅ Nissrensics: Vandrestien (start her)
-
-✅ Drillenissen
-
-✅ Nissrensics: Ræv og Nøgler
-
-✅ Nissrensics: Mørkets Dal
-
-✅ Nissrensics: Forkromet Mellemgasfordeler
-
-❌ Nissrensics: Lykke(h)julet
-
-## Boot2Root
-(66% - 2/3)
-
-✅ SantaShield Security #1
-
-✅ SantaShield Security #2
-
-❌ SantaShield Security #3
-
-## Web
-(66% - 2/3)
-
-✅ Julemandens Gåde
-
-✅ Christmas Wonderland
-
-❌ Cozy Christmas Socks
-
-## Malware
-(0% - 0/10)
-
-❌ Humlebiens Flugt 🐝
-
-❌ Humlebiens Flugt 🐝🐝
-
-❌ Humlebiens Flugt 🐝🐝🐝
-
-❌ Minos 1: Initial Access
-
-❌ Minos 2: Stager
-
-❌ Minos 3: Loader
-
-❌ Minos 4: Infostealer
-
-❌ Minos 5: Panel
-
-❌ Minos 6: Server
-
-❌ Minos 7: Takedown
-
-## Pwn
-(0% - 0/1)
-
-❌ Fritz i Vinterlunden
+## Pwn ![](https://geps.dev/progress/0)
+❌ Fritz i Vinterlunden<br />
