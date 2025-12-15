@@ -4,6 +4,8 @@ NC3 CTF 2025, tasks completed by Team Smatthesen on https://nc3ctf.dk/
 This is the first year that I have personally attended a CTF competition, and these are the task that we have solved.<br />
 Our team ended up completing 34 of the 50 tasks.
 
+All writeups are written in Danish. I only made a few of them, that I remembered from the top of my head.
+
 ## ![](https://geps.dev/progress/100) Kom godt i gang
 ✅ [Start her!](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Start%20her!%20-%20Solved.md)<br />
 ✅ [Discord](https://github.com/Toftemann/NC3CTF-Team-Smatthesen/blob/main/Writeup/Discord.md)<br />
